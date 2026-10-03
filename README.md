@@ -1,2 +1,17 @@
 # -PSX---
-[PSX] 거리 - 운명의 교차점 한글패치 입니다
+
+『街 - 운명의 교차점』 PS1 한국어 패치 v1.2.2
+배포일: 2026-08-09
+대상: Sound Novel Evolution 3 - Machi - Unmei no Kousaten 일본판 (SLPS-01845 / SLPS-01846)
+
+이 패키지에는 원본 BIN이나 패치 완료 BIN이 들어 있지 않습니다. 정품에서 추출한 정확한 Disc 1·2 BIN이 필요합니다.
+
+지원 원본
+디스크	크기	MD5	SHA-256
+Disc 1	700,305,648	703c473bd499b5e10e4906c92ce0d6b4	bc70153c86cdd2f0f09b5479f2ab98788aa4c4a7d54a6d5cf5cb6fe54088443e
+Disc 2	610,224,048	03481defbd91a3941ebaa8c443a8e059	336eaea2c636933ef6989b4b5740af86edf05a7a357174c7f9157787fed1cced
+
+패치 결과
+디스크	크기	SHA-256
+Disc 1	704,047,680	c48353392df513642669452ea33c97c8432fa61f85a484782ef63a7d80102944
+Disc 2	612,606,624	12f67fd32841e023fc9475f4b04742a0214cfbe9109697e8acea2d6b963d6566
