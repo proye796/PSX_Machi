@@ -1,4 +1,4 @@
-# 『거리 - 운명의 교차점』 PS1 한국어 패치 v1.2.2
+# 『거리 - 운명의 교차점』 PSX 한국어 패치 v1.2.2
 
 배포일: 2026-08-09  
 대상: Sound Novel Evolution 3 - Machi - Unmei no Kousaten 일본판 (`SLPS-01845` / `SLPS-01846`)
